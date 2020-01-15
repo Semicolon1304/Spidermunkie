@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    background-color: grey;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.navigation {
+    display: inline-block;
+}
+
+a:link {
+    color: skyblue;
+
+}
+
+a:visited {
+ 
+    color: #9242e2;
+
+}
+
+a:hover {
+    color: #3399ff;
+}
